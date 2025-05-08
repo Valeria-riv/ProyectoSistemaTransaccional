@@ -52,10 +52,28 @@
 
 ###
 
+<img src="imagenes/esta.png" />
+
+###
+
 <h4 align="left">Uso</h4>
 
 ###
 
-<img src="https://raw.githubusercontent.com/David-CC-dev/David-CC-dev/output/snake.svg" alt="Snake animation" />
+<img src="imagenes/Captura de pantalla 2025-05-08 164353.png" />
 
 ###
+
+<img src="imagenes/Captura de pantalla 2025-05-08 164426.png" />
+
+###
+
+<img src="imagenes/Captura de pantalla 2025-05-08 164442.png" />
+
+###
+
+<img src="imagenes/Captura de pantalla 2025-05-08 164524.png" />
+
+###
+
+<img src="imagenes/Captura de pantalla 2025-05-08 164548.png" />
