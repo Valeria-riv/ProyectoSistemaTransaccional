@@ -4,7 +4,7 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
 
-  workflow_dispatch:
+  imagenes_dispatch:
 
   push:
     branches:
@@ -21,7 +21,7 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ https://github.com/Valeria-riv/ProyectoSistemaTransaccional.git }}
 
 
       - name: push pacman-contribution-graph.svg to the output branch
